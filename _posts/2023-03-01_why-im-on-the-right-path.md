@@ -5,7 +5,7 @@ date: 2023-03-01
 
 # Why I'm on the right path (and you're not)
 
-A peasant asked me the other day how he could stop being so unproductive.
+While walking yesterday, a man stopped me and asked: "how can I stop being so unproductive?"
 He tried to explain what that meant, but by my questioning, became enlightened and transcended this plane on the spot.
 
 ## A reasonable standard for productivity
