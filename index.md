@@ -10,5 +10,5 @@ Sometimes I like to complain. Sometimes that's useful. I don't know what this is
 
 ## Posts
 {% for post in site.posts %}
-- [{{post.title}}](post.url)
+- [{{post.title}}]({{post.url}})
 {% endfor %}
