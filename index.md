@@ -1,6 +1,7 @@
 ---
 title: Fáilte isteaċ
 ---
+<meta name="google-site-verification" content="16RDSyzFkd7zvUgKcQZA6ywV36u5slA9Mz2lpucvADQ" />
 
 [//]: # "Find tips on training, automating boring stuff and some collected thoughts on the philosophy of work scattered about."
 
